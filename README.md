@@ -107,10 +107,6 @@ This repository contains insights drawn from a study of various musical genres, 
 
 # 🎉 Conclusion
 
-Over the span of a little more than a decade, the music landscape has transformed dramatically. The evolution of genres like Pop, Rap, Trap, and Melodic Rap offers a glimpse into the cultural and emotional undercurrents of the times. Pop and Dance Pop's journey through varying energy levels and emotional tones reflects the ever-changing moods of the global audience. The rise of Rap and Trap, both in terms of energy and popularity, underscores the world's desire for bold, energetic anthems.
-
-Meanwhile, the consistent appeal of Melodic Rap hints at a delicate balance between energetic beats and heartfelt melodies. With the consistent fluctuations in track and artist popularity, it's evident that the global audience's taste is diverse, with a thirst for both novelty and nostalgia. 
-
-The visuals and datasets presented in this repository encapsulate these changes, providing not just an analytical view but also a sonic history of the years 2010-2022. The vibrant blend of melodies, emotions, and rhythms paints a rich tapestry of the era, reminding us that music, at its core, is a reflection of humanity's soul.
+From 2010 to 2022, musical trends have evolved significantly. Pop and Dance Pop genres have seen shifts in energy and emotion, while Rap and Trap have surged in both energy and popularity. Melodic Rap maintains a balanced appeal, and overall artist and track popularity highlight diverse audience tastes. This repository captures the dynamic journey of these genres over the years, offering a snapshot of the changing music landscape.
 
 ---
