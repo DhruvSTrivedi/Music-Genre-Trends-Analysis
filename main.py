@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the data
-playlist_df = pd.read_csv('/Users/dhruvtrivedi/Desktop/playlist_2010to2022.csv')
+playlist_df = pd.read_csv('playlist_2010to2022.csv')
 
 # === GENRE TRENDS ANALYSIS ===
 # Filter the dataset for the years 2010 to 2022
