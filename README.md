@@ -8,14 +8,6 @@ Dive deep into the heartbeats of music from 2010 to 2022. With our extensive ana
   <img src="Spotify/spotify.jpeg" alt="Main Visualization" width="600">
 </p>
 
-## 📜 Table of Contents
-
-- [Dataset Overview](#dataset-overview)
-- [Key Highlights](#key-highlights)
-- [Visual Extravaganza](#visual-extravaganza)
-- [Conclusion](#conclusion)
-
-
 ## 📘 Dataset Overview
 
 The dataset harmonizes a beautiful symphony of features:
